@@ -1,0 +1,18 @@
+
+
+
+Project Plan :::
+Project name :Worker Attendance Management Systeam.
+
+Admin		:Login/logout
+		Approve new worker;
+		Post tasks and any updates.
+		Delete worker.
+		password change.
+
+Worker		:Registeration;
+		Login /Logout;
+		Profile Update/Profile View.
+		View tasks.
+		Attendance report.
+		Password change.
